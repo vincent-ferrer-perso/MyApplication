@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Phares de France</string>
+    <string name="prenom">Vincent</string>
+    <string name="nom">FERRER</string>
+    <string name="password">Mot de passe</string>
+    <string name="dateBirth">Date de naissance</string>
+    <string name="buttonLogin">Se connecter</string>
+</resources>
